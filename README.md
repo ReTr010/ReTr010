@@ -42,7 +42,7 @@ I started doing programming when I was 14 and after of couple years of practise 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media3.giphy.com/media/Mze4fcVyqwp91MKPG7/giphy.gif?cid=790b7611ce18dca34c53f06d40f66bacf90fbc2def1511d7&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
 
 
