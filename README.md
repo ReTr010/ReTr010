@@ -94,4 +94,3 @@ I started doing programming when I was 14 and after of couple years of practise 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
