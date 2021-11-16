@@ -24,7 +24,7 @@
 
 ### Glad to see you here!  
 I'm a young guy who is just learning things but I'm very ambitious and motivated.
-I started doing programming when I was 14 and after of couple years of practise in Python decided that data science and machine learning are the fields I want to ace.  
+I started doing programming when I was 14 and after a couple of years of practise in Python decided that data science and machine learning are the fields I want to ace.  
   
 
 <br/>  
