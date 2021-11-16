@@ -13,7 +13,10 @@
 </a>
 <a href="https://linkedin.com/in/retr010" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a> 
+<a href="https://vk.com/f95a12" target="_blank">
+<img src=https://user-images.githubusercontent.com/51675043/142020105-d341970a-659b-41da-b393-7d10181e6866.png&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
