@@ -15,7 +15,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 <a href="https://vk.com/f95a12" target="_blank">
-<img src="https://i.ibb.co/YXjByN7/vk-0.png" style="width:114px;height:28px;">
+<img src="https://i.ibb.co/YXjByN7/vk-0.png" style="width:120px;height:28px;">
 </a>
 </div>  
   
