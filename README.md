@@ -36,10 +36,8 @@ I started doing programming when I was 14 and after a couple of years of practis
 - 🔭 I’m currently working on developing myself.  
   
 
-- 🌱 I’m currently learning German, Statistics and Machine Learning.  
+- 🌱 I’m currently learning Cybersecurity, Statistics and Machine Learning.  
   
-
-- ❓ Ask me about anything related to Python programming.  
 
 
 </td><td valign="top" width="50%">
@@ -60,10 +58,7 @@ I started doing programming when I was 14 and after a couple of years of practis
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 </div>  
 
 <br/>  
